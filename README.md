@@ -2,6 +2,7 @@
 课程算法设计与分析相关文字资料，code在另一个中
 ## 论文部分的内容:
 ### Mathematical Analysis of Algorithms  
+    [hello](https://github.com)
     [translation](https://blog.csdn.net/erutan_pku/article/details/20291441)  
     [proof](https://blog.csdn.net/weixin_43902708/article/details/89790808)  
 ### PRIMES Is in P  
